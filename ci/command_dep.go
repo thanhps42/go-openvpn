@@ -23,7 +23,7 @@ import (
 	"fmt"
 
 	"github.com/magefile/mage/sh"
-	"github.com/mysteriumnetwork/go-openvpn/ci/util"
+	"github.com/thanhps42/go-openvpn/ci/util"
 )
 
 // Installs the package management tool - dep

@@ -21,8 +21,8 @@ import (
 	"regexp"
 
 	log "github.com/cihub/seelog"
-	"github.com/mysteriumnetwork/go-openvpn/openvpn"
-	"github.com/mysteriumnetwork/go-openvpn/openvpn/management"
+	"github.com/thanhps42/go-openvpn/openvpn"
+	"github.com/thanhps42/go-openvpn/openvpn/management"
 )
 
 // CredentialsProvider returns client's current auth primitives (i.e. customer identity signature / node's sessionId)

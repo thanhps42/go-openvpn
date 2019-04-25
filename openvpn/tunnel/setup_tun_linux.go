@@ -23,7 +23,7 @@ import (
 	"strconv"
 
 	log "github.com/cihub/seelog"
-	"github.com/mysteriumnetwork/go-openvpn/openvpn/config"
+	"github.com/thanhps42/go-openvpn/openvpn/config"
 )
 
 // NewTunnelSetup returns a new tunnel setup for linux

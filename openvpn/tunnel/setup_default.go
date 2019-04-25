@@ -17,7 +17,7 @@
 
 package tunnel
 
-import "github.com/mysteriumnetwork/go-openvpn/openvpn/config"
+import "github.com/thanhps42/go-openvpn/openvpn/config"
 
 // DefaultSetup represents a default tunnel setup - aka it sets the tun in configuration
 type DefaultSetup struct {

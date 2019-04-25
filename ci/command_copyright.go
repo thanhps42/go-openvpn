@@ -27,7 +27,7 @@ import (
 	"path/filepath"
 	"regexp"
 
-	"github.com/mysteriumnetwork/go-openvpn/ci/util"
+	"github.com/thanhps42/go-openvpn/ci/util"
 )
 
 var copyrightRegex = regexp.MustCompile(`Copyright \(C\) \d{4} The "MysteriumNetwork/go-openvpn"`)

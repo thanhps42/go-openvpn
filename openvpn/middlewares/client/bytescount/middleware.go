@@ -22,7 +22,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/mysteriumnetwork/go-openvpn/openvpn/management"
+	"github.com/thanhps42/go-openvpn/openvpn/management"
 )
 
 // SessionStatsHandler is invoked when middleware receives statistics

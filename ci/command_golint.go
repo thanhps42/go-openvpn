@@ -28,7 +28,7 @@ import (
 
 	"github.com/magefile/mage/mg"
 	"github.com/magefile/mage/sh"
-	"github.com/mysteriumnetwork/go-openvpn/ci/util"
+	"github.com/thanhps42/go-openvpn/ci/util"
 )
 
 // Checks if golint exists, if not installs it

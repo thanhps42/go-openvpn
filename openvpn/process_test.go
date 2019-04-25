@@ -22,9 +22,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mysteriumnetwork/go-openvpn/openvpn/tunnel"
+	"github.com/thanhps42/go-openvpn/openvpn/tunnel"
 
-	"github.com/mysteriumnetwork/go-openvpn/openvpn/config"
+	"github.com/thanhps42/go-openvpn/openvpn/config"
 	"github.com/stretchr/testify/assert"
 )
 

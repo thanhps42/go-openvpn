@@ -24,7 +24,7 @@ import (
 	"os"
 
 	"github.com/magefile/mage/sh"
-	"github.com/mysteriumnetwork/go-openvpn/ci/util"
+	"github.com/thanhps42/go-openvpn/ci/util"
 )
 
 // Checks that the source is compliant with go vet

@@ -22,8 +22,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/mysteriumnetwork/go-openvpn/openvpn"
-	"github.com/mysteriumnetwork/go-openvpn/openvpn/management"
+	"github.com/thanhps42/go-openvpn/openvpn"
+	"github.com/thanhps42/go-openvpn/openvpn/management"
 )
 
 // Callback is called when openvpn process state changes

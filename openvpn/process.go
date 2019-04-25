@@ -23,9 +23,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mysteriumnetwork/go-openvpn/openvpn/config"
-	"github.com/mysteriumnetwork/go-openvpn/openvpn/management"
-	"github.com/mysteriumnetwork/go-openvpn/openvpn/tunnel"
+	"github.com/thanhps42/go-openvpn/openvpn/config"
+	"github.com/thanhps42/go-openvpn/openvpn/management"
+	"github.com/thanhps42/go-openvpn/openvpn/tunnel"
 )
 
 const openvpnManagementLogPrefix = "[client-management] "

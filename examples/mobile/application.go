@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/mysteriumnetwork/go-openvpn/openvpn3"
+	"github.com/thanhps42/go-openvpn/openvpn3"
 )
 
 type callbacks interface {
